@@ -13,7 +13,6 @@ Curriculum-Vitae
 
 ## Education:
     * 2015-2016	Master Economics, Tilburg University 
-    *	
     * 2014–2015	Exchange study abroad at the Hong Kong University of science and technology, Hong Kong
     * 2012–2015	Bachelor Economics, Tilburg University
 
