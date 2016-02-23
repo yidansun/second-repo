@@ -34,6 +34,7 @@ Curriculum-Vitae
    * Excel
    * Word
    * Powerpoint
+
 ## Language proficiency:
    * Chinese Native speaker
    * English Fluent 		
